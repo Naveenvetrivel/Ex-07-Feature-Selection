@@ -132,5 +132,25 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 # OUPUT
 ![image](https://user-images.githubusercontent.com/94165322/169941209-0434601a-119e-4948-b0e1-43b506ce0cc2.png)
-![image](https://user-images.githubusercontent.com/94165322/169941275-27bb43b0-e3d6-4306-bef4-e497168dd88f.png)
+![image](https://user-images.githubusercontent.com/94165322/169941775-10ac9e53-3646-4eac-b6fa-fe93aedb142e.png)
+![image](https://user-images.githubusercontent.com/94165322/169941820-4bc465d8-b434-4206-a603-d046b951b6d0.png)
+![image](https://user-images.githubusercontent.com/94165322/169941879-194ee7be-fcbb-4557-91ad-69b9947737da.png)
+![image](https://user-images.githubusercontent.com/94165322/169941929-711e0aaa-eeea-4aa4-b740-cc3e753a84d3.png)
+![image](https://user-images.githubusercontent.com/94165322/169941966-e704c5c8-2cbe-4533-9fbc-1c462c47f06b.png)
+![image](https://user-images.githubusercontent.com/94165322/169942014-81acfda6-ba5a-4efb-9ef7-f6f37302a06d.png)
+![image](https://user-images.githubusercontent.com/94165322/169942048-e5859e1d-a519-49d7-a7b6-83855d13eb43.png)
+![image](https://user-images.githubusercontent.com/94165322/169942085-ed0cefa7-40ab-447d-8b42-880cb948502f.png)
+![image](https://user-images.githubusercontent.com/94165322/169942099-cc49e9f9-fde8-4e51-952e-ab48a116bfc0.png)
+![image](https://user-images.githubusercontent.com/94165322/169942117-6202e8f6-d46b-48c1-9d83-0c5ddd9338de.png)
+![image](https://user-images.githubusercontent.com/94165322/169942152-ed690cb6-9d99-48b5-9e1f-fd749350ee25.png)
+![image](https://user-images.githubusercontent.com/94165322/169942175-ce94a8a0-4c6a-48ad-97df-90b1f6c54507.png)
+![image](https://user-images.githubusercontent.com/94165322/169942190-74885a56-bcf7-4c2a-97e5-ddea49690dc1.png)
+![image](https://user-images.githubusercontent.com/94165322/169942217-6a027a0d-e655-40d1-92ac-99ef6a7c9f4c.png)
+![image](https://user-images.githubusercontent.com/94165322/169942229-710cd031-2d45-4e8d-8e85-057b36d8eaee.png)
+
+# Result
+The various feature selection techniques has been performed on a dataset and saved the data to a file.
+
+
+
 
